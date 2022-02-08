@@ -1,0 +1,6 @@
+name: PG1-22
+chanels:
+  - conda-forge
+dependencies:
+  - xeus-cling=0.13.0
+  - notebook
